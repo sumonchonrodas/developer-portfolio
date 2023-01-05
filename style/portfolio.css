@@ -208,3 +208,19 @@ main {
     margin: 50px 0;
     text-align: center;
 }
+/* contract style */
+.contract{
+    background: #FFF8F3;
+    display: flex;
+    gap: 70px;
+    padding: 230px;
+}
+.contract input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    padding: 18px 30px;
+    border: none;
+    width: 100%;
+}
+.contract-title{
+    margin-bottom: 20px;
+}
