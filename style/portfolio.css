@@ -169,3 +169,42 @@ main {
     font-size: 16px;
     color: #757575;
 }
+
+/* resume styles */
+.rusume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.section-title{
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 120px;
+}
+.resume-content {
+    display: flex;
+    gap: 71px;
+}
+
+.resume .title {
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 10px;
+
+}
+
+.resume .sub-title {
+    font-weight: 600;
+    color: #757575;
+    margin-top: 30px;
+
+
+}
+
+.resume .description {
+    font-size: 16px;
+    color: #757575;
+}
+.resume-btn{
+    margin: 50px 0;
+    text-align: center;
+}
