@@ -104,11 +104,11 @@ main {
 .about-info-container {
     display: flex;
     justify-content: space-around;
-    
+
 }
 
 
-.about-info  .info-title {
+.about-info .info-title {
     color: #757575;
     font-size: 20px;
 
@@ -120,4 +120,52 @@ main {
     font-size: 20px;
 
 
+}
+
+/* what i do style */
+.what-i-do {
+    margin-top: 130px;
+    text-align: center;
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+
+
+}
+
+.section-sub-title {
+    color: #757575;
+    margin-bottom: 50px;
+
+}
+
+.skills-container {
+    display: flex;
+    text-align: left;
+    gap: 24px;
+
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.skill-descrioption {
+    font-size: 16px;
+    color: #757575;
 }
